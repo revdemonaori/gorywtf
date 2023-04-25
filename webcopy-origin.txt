@@ -1,0 +1,52 @@
+Uri: https://www.nexus.best/
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\index.htm
+Content Type: text/html
+
+Uri: https://www.nexus.best/discord
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\discord.html
+Content Type: text/html
+
+Uri: https://www.nexus.best/help
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\help.html
+Content Type: text/html
+
+Uri: https://www.nexus.best/ns_assets/css/list.css
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\css\list.css
+Content Type: text/css
+
+Uri: https://www.nexus.best/ns_assets/css/styles.css
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\css\styles.css
+Content Type: text/css
+
+Uri: https://www.nexus.best/ns_assets/css/warn.css
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\css\warn.css
+Content Type: text/css
+
+Uri: https://www.nexus.best/ns_assets/images/favicon.png
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.nexus.best/ns_assets/images/flags/FR.png
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\images\flags\FR.png
+Content Type: image/png
+
+Uri: https://www.nexus.best/ns_assets/js/discord.js
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\js\discord.js
+Content Type: application/javascript
+
+Uri: https://www.nexus.best/ns_assets/js/libraries/jquery-3.6.4.min.js
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\js\libraries\jquery-3.6.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.nexus.best/ns_assets/js/load.js
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\js\load.js
+Content Type: application/javascript
+
+Uri: https://www.nexus.best/ns_assets/js/purchase.js
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\ns_assets\js\purchase.js
+Content Type: application/javascript
+
+Uri: https://www.nexus.best/purchase
+File Name: C:\Users\hakan\Desktop\Websites\www.nexus.best\purchase.html
+Content Type: text/html
+

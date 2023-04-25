@@ -1,0 +1,1 @@
+$(window).on("load",(function(){document.getElementsByClassName("preloader")[0].style.display="none",$(".banner").fadeIn()}));

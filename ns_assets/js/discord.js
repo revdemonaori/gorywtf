@@ -1,0 +1,1 @@
+var el=document.getElementById("seconds"),nu=el.innerHTML,delay=setInterval((function(){(nu-=1)>-1?el.textContent=nu:(clearInterval(delay),window.location.href="https://discord.com/invite/ZRJKYZj3hH")}),1e3);
